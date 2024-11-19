@@ -16,7 +16,7 @@ I'm a **web engineer** and **project manager** passionate about creating efficie
 - **New**: A modern project management software similar to Notion, with a focus on user experience and simplicity.  
 
 ## 🎶 Music Is My Passion  
-I love music and enjoy curating playlists. Here's my favorite playlist (link coming soon!).  
+I love music and enjoy curating playlists. Here's my favorite playlist (https://music.youtube.com/playlist?list=PLfrEmOToFXCjFAVLpqevdiqMko3vzwrLY&si=N4hs9TLVMhoAmBAg).  
 
 ## 🚀 Future Goals  
 - Expand my knowledge in **web development** and **business management**.  
