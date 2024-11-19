@@ -24,4 +24,4 @@ I love music and enjoy curating playlists. Here's my favorite playlist (link com
 - Grow my portfolio and start a successful business in the near future.  
 
 ## 🌐 Portfolio  
-[Portfolio coming soon!]  
+[https://michitaka-portfolio.vercel.com]  
