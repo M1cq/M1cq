@@ -40,4 +40,4 @@ I love music and enjoy curating playlists. Here's my favorite playlist (https://
 - Grow my portfolio and start a successful business in the near future.  
 
 ## 🌐 Portfolio  
-[https://michitaka-portfolio.vercel.com]  
+[https://michitaka-portfolio.vercel.app]  
