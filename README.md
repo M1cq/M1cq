@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Michitaka Kuroda (M1cq)  
 
 ## 🎯 About Me  
-I'm a **web engineer** and **project manager** passionate about creating efficient and user-friendly applications. Currently, I'm working on exciting projects like **Aube** and **New**, aiming to bring innovative solutions to project management and daily workflows.  
+coming soon...
 
 ### 🌟 Skills  
 - **Languages & Frameworks**:  
