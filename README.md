@@ -26,18 +26,5 @@ coming soon...
   ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-
-## 🛠️ Current Projects  
-- **Aube**: A project designed to streamline daily productivity with customizable features.  
-- **New**: A modern project management software similar to Notion, with a focus on user experience and simplicity.  
-
 ## 🎶 Music Is My Passion  
-I love music and enjoy curating playlists. Here's my favorite playlist (https://music.youtube.com/playlist?list=PLfrEmOToFXCjFAVLpqevdiqMko3vzwrLY&si=N4hs9TLVMhoAmBAg).  
-
-## 🚀 Future Goals  
-- Expand my knowledge in **web development** and **business management**.  
-- Build software that makes a real impact on people's lives.  
-- Grow my portfolio and start a successful business in the near future.  
-
-## 🌐 Portfolio  
-[https://michitaka-portfolio.vercel.app]  
+I love music and enjoy curating playlists. Here's my playlist (https://music.youtube.com/playlist?list=PLfrEmOToFXCjFAVLpqevdiqMko3vzwrLY&si=N4hs9TLVMhoAmBAg).  
