@@ -21,5 +21,5 @@
   ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-## 🎶 Music Is My Passion  
-I love music and enjoy curating playlists. Here's my playlist (https://music.youtube.com/playlist?list=PLfrEmOToFXCjFAVLpqevdiqMko3vzwrLY&si=N4hs9TLVMhoAmBAg).  
+## ^?^
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
